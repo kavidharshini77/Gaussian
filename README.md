@@ -13,7 +13,8 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 3. 
 4. 
 
-## Program:
+## Program:<img width="466" height="568" alt="image" src="https://github.com/user-attachments/assets/97514b82-6202-438c-b926-b9ea7a69133e" />
+
 ```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
@@ -22,7 +23,8 @@ RegisterNumber:
 */
 ```
 
-## Output:
+## Output:<img width="829" height="446" alt="image" src="https://github.com/user-attachments/assets/f6e401c2-105e-47aa-810b-6e18ec861f4c" />
+
 ![gaussian elimination]()
 
 
